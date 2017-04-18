@@ -1,0 +1,17 @@
+
+                ╔═══════════════╗
+                ║          源码搜藏网          ║
+  ╔══════╣───────────────╠══════╗
+  ║            ║  http://www.codesocang.com   ║            ║
+  ║            ╚═══════════════╝            ║
+　║                                                          ║
+　║源码搜藏网声明：                                          ║
+  ║   1) 程序如果跑不起来需要自调，源码搜藏网做船但不帮您扬帆║
+  ║   2) 免费例子大全http://www.codesocang.com不定期更新。   ║
+  ║   3) 如有版权争议请随时联系源码搜藏网。                  ║
+  ║   4) 源码仅限学习交流，切勿移作他用。                    ║
+  ║   5) 转载请保留本源码说明，赠人玫瑰，手留余香。          ║
+　║                                                          ║
+  ║    ╔═══════════════════════╗    ║
+  ╚══╣    源码搜藏网 http://www.codesocang.com      ╠══╝
+        ╚═══════════════════════╝
